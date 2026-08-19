@@ -30,7 +30,7 @@ x-status: defunct
 x-acquired-by: databricks
 x-acquired-date: '2023-05'
 x-sunset-date: '2023-06-29'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
